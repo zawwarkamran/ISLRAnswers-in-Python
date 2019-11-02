@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65b76664-b5e4-4b8f-bfeb-c6f962e0d02f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question 11 Chapter 4 ISLR.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question 11 Chapter 4 ISLR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question 13 Chapter 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question 13 Chapter 4.py" afterDir="false" />
-    </list>
+    <list default="true" id="65b76664-b5e4-4b8f-bfeb-c6f962e0d02f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +141,7 @@
       <workItem from="1572646095672" duration="545000" />
       <workItem from="1572673317311" duration="18000" />
       <workItem from="1572673340446" duration="15000" />
-      <workItem from="1572673677592" duration="5051000" />
+      <workItem from="1572673677592" duration="5332000" />
     </task>
     <task id="LOCAL-00001" summary="Correct Question">
       <created>1572675934575</created>
@@ -154,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572675934576</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Test Error Rate">
+      <created>1572719417266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572719417267</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +178,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Correct Question" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correct Question" />
+    <MESSAGE value="Added Test Error Rate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Test Error Rate" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ISLRAnswers_in_Python$Question_7_Chapter_4_ISLR.coverage" NAME="Question 7 Chapter 4 ISLR Coverage Results" MODIFIED="1572719314529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
