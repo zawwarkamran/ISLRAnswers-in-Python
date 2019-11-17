@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65b76664-b5e4-4b8f-bfeb-c6f962e0d02f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Q4STA314.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q4STA314.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -183,6 +182,7 @@
       <workItem from="1573840855709" duration="3352000" />
       <workItem from="1573937119495" duration="1138000" />
       <workItem from="1574018141279" duration="132000" />
+      <workItem from="1574018528589" duration="273000" />
     </task>
     <task id="LOCAL-00001" summary="Correct Question">
       <created>1572675934575</created>
@@ -212,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572719958020</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Test Error Rate">
+      <created>1574018582946</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574018582946</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
