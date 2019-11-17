@@ -21,12 +21,11 @@ def log_likelihood(par):
 MLE = minimize(log_likelihood, x0=np.array([0, 0]), method='Nelder-Mead')
 print(MLE)
 
-
 # Bernoulli
 values = np.array([1, 1, 1, 0, 0])
 
 
-def  bernloglik(par):
+def bernloglik(par):
     return -np.sum(values*np.log(par)+(1-values)*np.log(1-par))
 
 
@@ -34,7 +33,7 @@ MLE_2 = minimize(bernloglik, x0=np.array([0]), method='Nelder-Mead')
 print(MLE_2)
 
 parvals = np.linspace(0, 1, 20)
-funcvals = list(map(bernloglik, parvals))
+funcvals = list(map(lambda x: -bernloglik(x), parvals))
 
 plt.plot(parvals, funcvals)
 plt.show()
