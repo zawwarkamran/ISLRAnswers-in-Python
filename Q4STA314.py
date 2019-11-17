@@ -9,10 +9,8 @@ de = pd.read_csv('default.csv')
 de.drop(['Unnamed: 0', 'student', 'income'], axis=1, inplace=True)
 de['default'].replace(to_replace=['No', 'Yes'], value=[0, 1], inplace=True)
 
-LogisticReg = sm.formula.glm('default ~ balance', data=de, family=sm.families.Binomial()).fit()
+LogisticReg = sm.GLM(endog=de['default'], exog=sm.add_constant(de['balance']), family=sm.families.Binomial()).fit()
 print(LogisticReg.summary())
-LogisticReg_2 = sm.GLM(endog=de['default'], exog=sm.add_constant(de['balance']), family=sm.families.Binomial()).fit()
-print(LogisticReg_2.summary())
 
 
 def log_likelihood(par):
