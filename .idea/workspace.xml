@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65b76664-b5e4-4b8f-bfeb-c6f962e0d02f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Q4STA314.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/default.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ISLRAnswers-in-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ISLRAnswers-in-Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q4STA314.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q4STA314.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +38,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Q4STA314.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1T1odMT7AHohPDnZ50VUdnM8Iox" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -71,9 +71,6 @@
       <module name="ISLRAnswers-in-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -180,6 +177,9 @@
       <workItem from="1572673677592" duration="7989000" />
       <workItem from="1573540543620" duration="5279000" />
       <workItem from="1573800221450" duration="287000" />
+      <workItem from="1573840855709" duration="3352000" />
+      <workItem from="1573937119495" duration="1138000" />
+      <workItem from="1574018141279" duration="132000" />
     </task>
     <task id="LOCAL-00001" summary="Correct Question">
       <created>1572675934575</created>
