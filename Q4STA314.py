@@ -30,11 +30,9 @@ def bernloglik(par):
 
 
 MLE_2 = minimize(bernloglik, x0=np.array([0]), method='Nelder-Mead')
-print(MLE_2)
 
 parvals = np.linspace(0, 1, 20)
 funcvals = list(map(lambda x: -bernloglik(x), parvals))
 
 plt.plot(parvals, funcvals)
 plt.show()
-
